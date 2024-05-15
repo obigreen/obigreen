@@ -34,7 +34,10 @@
 </div>
 
 <div>
-  [![codewars](https://www.codewars.com/users/obigreen/badges/large)](https://www.codewars.com/users/obigreen) 
+
+
+### 💻 Codewars:
+  https://www.codewars.com/users/obigreen/badges/large
 </div>
 
 
