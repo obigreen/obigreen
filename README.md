@@ -1,14 +1,16 @@
 
 <h1 align="start">Hello there
 
-  ![codewars](https://www.codewars.com/users/obigreen/badges/large)
-</h1>
+ ![](https://komarev.com/ghpvc/?username=obigreen)</h1>
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+<div>
 
-  <div>
-
-  ![](https://komarev.com/ghpvc/?username=obigreen)
-  </div> 
- &nbsp; 
+ ![codewars](https://www.codewars.com/users/obigreen/badges/large)
+</div> 
+&nbsp; 
 &nbsp;
 &nbsp;
 &nbsp;
@@ -26,10 +28,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
-
-
-
-
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
 <h2>Tools</h2>
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
@@ -39,10 +45,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp;
 </div>
-
-
-
-
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
 <h2>Ai</h2>
 <div>
    <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="chatGPT" alt="chatGPT" width="40" height="40"/>&nbsp;
