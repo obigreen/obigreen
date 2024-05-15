@@ -27,8 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp;
 </div>
 
+<h2>Ai</h2>
 <div>
-   <img src="https://www.svgrepo.com/svg/305710/apachecassandra" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+   <img src="" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 </div>
 
 
