@@ -1,4 +1,9 @@
-<h1 align="start">Hello there ![](https://komarev.com/ghpvc/?username=obigreen)</h1>
+<h1 align="start">Hello there 
+  <div>
+
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
+ </div> 
+</h1>
 
 
 <h2>Technologies</h2>
@@ -34,6 +39,7 @@
 </div>
 
 <div>
+
   ![codewars](https://www.codewars.com/users/obigreen/badges/large)
 </div>
 
