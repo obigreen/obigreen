@@ -34,14 +34,7 @@
 </div>
 
 <div>
-  
-### 💻 Codewars:
-
-!codewars
-
-### ⚙️ GitHub statistics:
-
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=obigreen&theme=dark&background=000000" alt="webDev's Github stats" />
+  [![codewars](https://www.codewars.com/users/obigreen/badges/large)](https://www.codewars.com/users/obigreen) 
 </div>
 
 
