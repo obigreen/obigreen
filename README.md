@@ -1,4 +1,4 @@
-<h1 align="start">Hello there</h1>
+<h1 align="start">Hello there</h1> ![](https://komarev.com/ghpvc/?username=obigreen)
 
 
 <h2>Technologies</h2>
@@ -34,10 +34,7 @@
 </div>
 
 <div>
-  
-![codewars](https://www.codewars.com/users/obigreen/badges/large)
-
-![](https://komarev.com/ghpvc/?username=obigreen)
+  ![codewars](https://www.codewars.com/users/obigreen/badges/large)
 </div>
 
 
