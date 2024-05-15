@@ -1,4 +1,4 @@
-<h1 align="start">Hello there</h1> ![](https://komarev.com/ghpvc/?username=obigreen)
+<h1 align="start">Hello there</h1>
 
 
 <h2>Technologies</h2>
