@@ -1,10 +1,14 @@
+<div>
 <h1 align="start">Hello there 
+</h1>
+
   <div>
 
   ![](https://komarev.com/ghpvc/?username=obigreen)
   ![codewars](https://www.codewars.com/users/obigreen/badges/large)
  </div> 
-</h1>
+  
+</div>
 
 
 
