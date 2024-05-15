@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=obigreen)
 
 ### Technologies
-<div>
   <div> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
@@ -17,15 +16,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
  </div>
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-###Tools
+  
+  
+### Tools
  <div> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
@@ -34,20 +27,13 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp;
  </div>
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp;
- <h2>Ai</h2>
+
+ ### Ai
  <div>
     <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="chatGPT" alt="chatGPT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="copilot" alt="copilot" width="40" height="40"/>&nbsp;
  </div>
-</div>
+
 &nbsp; 
 &nbsp;
 &nbsp;
