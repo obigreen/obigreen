@@ -29,7 +29,8 @@
 
 <h2>Ai</h2>
 <div>
-   <img src="https://github.com/obigreen/obigreen/blob/main/openai.svg" title="openai" alt="openai" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="chatGPT" alt="chatGPT" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="copilot" alt="copilot" width="40" height="40"/>&nbsp;
 </div>
 
 
