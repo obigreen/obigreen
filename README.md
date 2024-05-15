@@ -34,11 +34,10 @@
 </div>
 
 <div>
-
-
-### 💻 Codewars:
   
 ![codewars](https://www.codewars.com/users/obigreen/badges/large)
+
+![](https://komarev.com/ghpvc/?username=obigreen)
 </div>
 
 
