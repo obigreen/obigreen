@@ -29,7 +29,7 @@
 
 <h2>Ai</h2>
 <div>
-   <img src="" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/obigreen/obigreen/blob/main/openai.svg" title="openai" alt="openai" width="40" height="40"/>&nbsp;
 </div>
 
 
