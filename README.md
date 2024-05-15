@@ -6,6 +6,8 @@
 </h1>
 
 
+
+
 <h2>Technologies</h2>
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
@@ -21,8 +23,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>Tools</h2>
 
+
+
+<h2>Tools</h2>
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
@@ -32,11 +36,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp;
 </div>
 
+
+
+
 <h2>Ai</h2>
 <div>
    <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="chatGPT" alt="chatGPT" width="40" height="40"/>&nbsp;
    <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="copilot" alt="copilot" width="40" height="40"/>&nbsp;
 </div>
+
+
+
 
 <div>
 
