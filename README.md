@@ -17,15 +17,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
  </div>
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp; 
- &nbsp;
- &nbsp;
- &nbsp;
- <h2>Tools</h2>
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+###Tools
  <div> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
