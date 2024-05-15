@@ -33,5 +33,16 @@
    <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="copilot" alt="copilot" width="40" height="40"/>&nbsp;
 </div>
 
+<div>
+  
+### 💻 Codewars:
+
+!codewars
+
+### ⚙️ GitHub statistics:
+
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=obigreen&theme=dark&background=000000" alt="webDev's Github stats" />
+</div>
+
 
 
