@@ -42,26 +42,6 @@
     <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="copilot" alt="copilot" width="40" height="40"/>&nbsp;
  </div>
 
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-<div>
-
- ![codewars](https://www.codewars.com/users/obigreen/badges/large)
-</div> 
 
 
 
