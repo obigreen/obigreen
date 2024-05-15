@@ -2,6 +2,7 @@
   <div>
 
   ![](https://komarev.com/ghpvc/?username=obigreen)
+  ![codewars](https://www.codewars.com/users/obigreen/badges/large)
  </div> 
 </h1>
 
@@ -45,13 +46,6 @@
    <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="copilot" alt="copilot" width="40" height="40"/>&nbsp;
 </div>
 
-
-
-
-<div>
-
-  ![codewars](https://www.codewars.com/users/obigreen/badges/large)
-</div>
 
 
 
