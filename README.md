@@ -1,10 +1,14 @@
 # Hello there! ![GitHub Profile Views](https://komarev.com/ghpvc/?username=obigreen)
 
 ![codewars](https://www.codewars.com/users/obigreen/badges/large)
+![LeetCode Profile](https://leetcode.card.workers.dev/obigreen)
 
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obigreen&show_icons=true&theme=dark)
 
 ### Технологии
 
@@ -22,9 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 
-&nbsp;
-
-## Инструменты
+### Инструменты
 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
@@ -37,18 +39,12 @@
 
 &nbsp;
 
-## Искусственный интеллект
-
+### Ai
 <div>
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
 </div>
 
-&nbsp;
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=obigreen&show_icons=true&theme=dark)
 
 
 
