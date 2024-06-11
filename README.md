@@ -1,8 +1,11 @@
 # Hello there! ![GitHub Profile Views](https://komarev.com/ghpvc/?username=obigreen)
 
-![codewars](https://www.codewars.com/users/obigreen/badges/large) <a href="https://www.freecodecamp.org/fccdf5e015a-c947-4e7a-aada-936b1648632d" target="_blank">
+<a href="https://www.freecodecamp.org/fccdf5e015a-c947-4e7a-aada-936b1648632d" target="_blank">
   <img src="https://img.shields.io/badge/freeCodeCamp-fccdf5e015a--c947--4e7a--aada--936b1648632d-blue?logo=freecodecamp" alt="freeCodeCamp Profile" />
 </a>
+![codewars](https://www.codewars.com/users/obigreen/badges/large)
+
+&nbsp;
 
 ![LeetCode Profile](https://leetcode.card.workers.dev/obigreen)
 
@@ -43,13 +46,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
 </div>
 
-&nbsp;
-
 ### Ai
 <div>
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
 </div>
+
+&nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=obigreen&show_icons=true&theme=dark)
 
