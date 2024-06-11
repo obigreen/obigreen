@@ -1,46 +1,55 @@
+# Приветствую! ![codewars](https://www.codewars.com/users/obigreen/badges/large)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=obigreen)
 
-# Hello there ![codewars](https://www.codewars.com/users/obigreen/badges/large)
-![](https://komarev.com/ghpvc/?username=obigreen)
-
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
 &nbsp;
 &nbsp;
 &nbsp;
 
-### Technologies
-  <div> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/styled-components/brand/blob/master/styled-components.svg" title="styledcomponents" alt="styled components" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
- </div>
-  
-### Tools
- <div> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp;
- </div>
+## Технологии
 
- ### Ai
- <div>
-    <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="chatGPT" alt="chatGPT" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="copilot" alt="copilot" width="40" height="40"/>&nbsp;
- </div>
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/styled-components/brand/blob/master/styled-components.svg" title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+</div>
+
+&nbsp;
+
+## Инструменты
+
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
+</div>
+
+&nbsp;
+
+## Искусственный интеллект
+
+<div>
+  <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
+</div>
+
+&nbsp;
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obigreen&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obigreen&layout=compact&theme=dark)
 
 
 
