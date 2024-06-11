@@ -54,7 +54,7 @@
 
 &nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=obigreen&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obigreen&layout=compact&theme=dark)
 
 
 
