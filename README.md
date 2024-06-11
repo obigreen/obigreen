@@ -4,6 +4,10 @@
 
 ![LeetCode Profile](https://leetcode.card.workers.dev/obigreen)
 
+<a href="https://www.freecodecamp.org/fccdf5e015a-c947-4e7a-aada-936b1648632d">
+  <img src="https://img.shields.io/badge/freeCodeCamp-000000?style=flat&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp Badge"/>
+</a>
+
 &nbsp;
 &nbsp;
 &nbsp;
