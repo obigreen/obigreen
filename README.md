@@ -4,16 +4,16 @@
 
 ![LeetCode Profile](https://leetcode.card.workers.dev/obigreen)
 
-<a href="https://www.freecodecamp.org/fccdf5e015a-c947-4e7a-aada-936b1648632d">
-  <img src="https://img.shields.io/badge/freeCodeCamp-000000?style=flat&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp Badge"/>
-</a>
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-fccdf5e015a-c947-4e7a-aada-936b1648632d-blue?logo=freecodecamp)
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=obigreen&show_icons=true&theme=dark)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Технологии
 
@@ -49,6 +49,8 @@
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
 </div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obigreen&show_icons=true&theme=dark)
 
 
 
