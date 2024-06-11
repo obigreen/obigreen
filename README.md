@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/freeCodeCamp-fccdf5e015a--c947--4e7a--aada--936b1648632d-blue?logo=freecodecamp" alt="freeCodeCamp Profile" />
 </a>
 
-&nbsp;&nbsp;![LeetCode Profile](https://leetcode.card.workers.dev/obigreen)
+&nbsp;&nbsp; ![LeetCode Profile](https://leetcode.card.workers.dev/obigreen)
 
 
 &nbsp;
