@@ -2,7 +2,7 @@
 
 ![codewars](https://www.codewars.com/users/obigreen/badges/large)
 
-&nbsp;&nbsp;<a href="https://www.freecodecamp.org/fccdf5e015a-c947-4e7a-aada-936b1648632d" target="_blank">
+&nbsp;&nbsp; <a href="https://www.freecodecamp.org/fccdf5e015a-c947-4e7a-aada-936b1648632d" target="_blank">
   <img src="https://img.shields.io/badge/freeCodeCamp-fccdf5e015a--c947--4e7a--aada--936b1648632d-blue?logo=freecodecamp" alt="freeCodeCamp Profile" />
 </a>
 
