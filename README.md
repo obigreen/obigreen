@@ -1,11 +1,12 @@
-# Приветствую! ![codewars](https://www.codewars.com/users/obigreen/badges/large)
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=obigreen)
+# Hello there! ![GitHub Profile Views](https://komarev.com/ghpvc/?username=obigreen)
+
+![codewars](https://www.codewars.com/users/obigreen/badges/large)
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-## Технологии
+### Технологии
 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
