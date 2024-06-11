@@ -36,10 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 
-&nbsp;
-
 ### Инструменты
-
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
@@ -49,10 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
 </div>
 
-&nbsp;
-
 ### Ai
-
 <div>
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/chatGPT.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/obigreen/obigreen/blob/main/svg/ai/copilot.svg" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
