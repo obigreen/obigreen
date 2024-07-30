@@ -1,4 +1,4 @@
-# Hello there! ![GitHub Profile Views](https://komarev.com/ghpvc/?username=obigreen)
+# Hello there!
 
 &nbsp;
 &nbsp;
