@@ -1,12 +1,7 @@
 # Hello there!
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obigreen&layout=compact&theme=dark)
 &nbsp;
 
 ### Технологии
@@ -44,9 +39,6 @@
 </div>
 
 &nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obigreen&layout=compact&theme=dark)
-
 &nbsp;
 &nbsp;
 &nbsp;
